@@ -1,0 +1,8 @@
+﻿Nov 19 08:12:01 web-server sshd[1021]: Accepted password for admin from 10.0.0.5 port 54321 ssh2
+Nov 19 08:15:10 web-server sshd[1025]: Failed password for root from 192.168.1.105 port 44120 ssh2
+Nov 19 08:15:12 web-server sshd[1025]: Failed password for root from 192.168.1.105 port 44122 ssh2
+Nov 19 08:15:14 web-server sshd[1025]: Failed password for invalid user ubuntu from 192.168.1.105 port 44125 ssh2
+Nov 19 08:15:16 web-server sshd[1025]: Failed password for root from 192.168.1.105 port 44129 ssh2
+Nov 19 08:20:45 web-server sshd[1040]: Failed password for admin from 45.33.22.11 port 39102 ssh2
+Nov 19 08:22:00 web-server sshd[1055]: Accepted publickey for deploy from 10.0.0.8 port 60112 ssh2
+Nov 19 08:25:11 web-server sshd[1060]: Failed password for root from 192.168.1.105 port 44150 ssh2
